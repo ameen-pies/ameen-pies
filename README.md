@@ -54,7 +54,7 @@ I'm always learning, always experimenting, and always up for a challenge. 🚀
 ## 📫 Let's Connect
 
 💌 You can reach me at: **medhelaliamin125@gmail.com**  
-🌍 Or connect with me on: [LinkedIn](www.linkedin.com/in/amin-helali-74b36b2981-helali) or [Behance]([https://behance.net/your-behance-username](https://www.behance.net/helaliameen))
+🌍 Or connect with me on: [LinkedIn](www.linkedin.com/in/amin-helali-74b36b2981-helali) or [Behance](https://www.behance.net/helaliameen)
 
 
 ---
