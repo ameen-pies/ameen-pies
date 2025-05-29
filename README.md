@@ -46,7 +46,7 @@ I'm always learning, always experimenting, and always up for a challenge. 🚀
 
 ## 📫 Let's Connect
 
-💌 You can reach me at: **your-email@example.com**  
+💌 You can reach me at: **medhelaliamin125@gmail.com**  
 🌍 Or connect with me on [LinkedIn](www.linkedin.com/in/amin-helali-74b36b2981-helali) 
 
 ---
