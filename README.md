@@ -5,18 +5,9 @@
 I'm always learning, always experimenting, and always up for a challenge. 🚀
 
 ---
-
-## 🧠 What I Do
-
-- 🧮 **Crunch numbers** and extract meaning from messy data
-- 🤖 Explore **machine learning** and **AI techniques**
-- 🛠️ Build **web and Android apps** for fun and impact
-- 🧪 Tinker with **algorithms**, **data structures**, and **cool tools**
-- 📊 Love visualizing data and telling stories with numbers
-
----
 ## 🧪 What I'm Working On
 - 📊 Learning through multiple courses online about machine learning and deep learning.
+- 👨‍💻 Mmemnto mobile app project - In collaboration with @DouaBR
 ---
 
 ## 🚀 Tech & Tools I Use
