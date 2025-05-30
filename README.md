@@ -7,7 +7,7 @@ I'm always learning, always experimenting, and always up for a challenge. 🚀
 ---
 ## 🧪 What I'm Working On
 - 📊 Learning through multiple courses online about machine learning and deep learning.
-- 👨‍💻 Mmemnto mobile app project - In collaboration with @DouaBR
+- 👨‍💻 Memento mobile app project - In collaboration with @DouaBR
 ---
 
 ## 🚀 Tech & Tools I Use
