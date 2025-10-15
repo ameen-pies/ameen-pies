@@ -5,11 +5,13 @@
 I'm always learning, always experimenting, and always up for a challenge. 🚀
 
 ---
-## 🧪 What I'm Working On
+## 🧪 What I've Worked On
 - 📊 Learning through multiple courses online about machine learning and deep learning.
 - 👨‍💻 Memento mobile app project.
 - 📊 In depth general data analysis project - NYC Taxi dataset.
 - ☕ Power BI dashboards and data analysis internship.
+- Orca - the competitors finder and dashbord platform
+- Destinair - A travel booking dynamic website
 ---
 
 ## 🚀 Tech & Tools I Use
