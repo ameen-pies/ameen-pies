@@ -1,56 +1,68 @@
-# 👋 Hey there! I'm Mohammed Amin Helali
+# 👋 Hey there! I'm **Mohammed Amin Helali**
 
-🎓 I'm a passionate **Data Science student** driven by curiosity and creativity. I enjoy diving into datasets, uncovering hidden insights, and building smart solutions — whether it's through code, models, or visualizations.
+🎓 I'm a passionate **Data Science student** driven by curiosity and creativity. I love turning messy data into meaningful insights, building smart systems, and crafting clean, user-friendly interfaces.
 
-I'm always learning, always experimenting, and always up for a challenge. 🚀
+🚀 I thrive on challenges — whether it's designing data pipelines, building AI tools, or developing full-stack applications.
 
 ---
+
 ## 🧪 What I've Worked On
-- 📊 Learning through multiple courses online about machine learning and deep learning.
-- 👨‍💻 Memento mobile app project.
-- 📊 In depth general data analysis project - NYC Taxi dataset.
-- ☕ Power BI dashboards and data analysis internship.
-- Orca - the competitors finder and dashbord platform
-- Destinair - A travel booking dynamic website
+- 🤖 **ORCA** – AI-powered competitive intelligence platform for real-time market monitoring.  
+- ☁️ **Distributed Data Processing Infrastructure** – scalable Hadoop–Spark cluster for large datasets.  
+- 🚖 **NYC Taxi Trip Analytics** – in-depth analysis using Python and data visualization tools.  
+- ✈️ **Destinair** – dynamic travel booking web platform.  
+- 📊 Power BI dashboards and internship experience in data analysis.  
+- 📱 Memento mobile app project.
+
 ---
 
-## 🚀 Tech & Tools I Use
+## 🧠 Technical Skills
 
-### 👨‍💻 Programming Languages
+### 📊 Data & Analytics
+- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), R  
+- **Databases:** SQL (MySQL, PostgreSQL, Azure SQL)  
+- **Analysis & Visualization:** Statistical Analysis, A/B Testing, Matplotlib, Seaborn, Metabase  
+- **ETL & Automation:** ETL development, data cleaning, data wrangling
+
+### ⚙️ Data Engineering
+- Web scraping  
+- API integration  
+- Database design & optimization  
+- Data pipeline automation
+
+### ☁️ Big Data & Cloud
+- Apache Hadoop, Apache Spark, HDFS, Docker  
+- Microsoft Azure (Static Web Apps, SQL Database, Logic Apps)
+
+### 💻 Development
+- Java, C, JavaScript, Node.js, PHP, HTML/CSS  
+- Git, Android Studio
+
+### 🧰 Tools & Platforms
+- Jupyter Notebook, RStudio, VS Code, XAMPP  
+- Figma, BeautifulSoup, Selenium
+
+---
+
+## 🚀 Tech Stack & Tools I Love
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Web & Mobile
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧰 Tools & Environments
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🎨 Design & Creativity
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-2E2C2F?style=for-the-badge&logo=clipstudio&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
-💌 You can reach me at: **medhelaliamin125@gmail.com**  
-🌍 Or connect with me on: [LinkedIn](www.linkedin.com/in/amin-helali-74b36b2981-helali) or [Behance](https://www.behance.net/helaliameen)
-
+💌 **medhelaliamin125@gmail.com**  
+🌍 [LinkedIn](www.linkedin.com/in/amin-helali-74b36b2981-helali) • [Behance](https://www.behance.net/helaliameen)
 
 ---
 
