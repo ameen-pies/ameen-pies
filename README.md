@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Mohammed Amin Helali
+# 👋 Hey there! I'm Mohamed Amin Helali
 
 🎓 I'm a passionate 20YO **Data Science student** driven by curiosity and creativity.  
 I love diving into datasets, uncovering hidden insights, and building smart solutions, whether it's through code, models, or visualizations.
